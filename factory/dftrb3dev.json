@@ -1,0 +1,9 @@
+{
+	"name": "dftrb3dev",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5101d67c-af21-471c-adcd-fcf9ea790355",
+		"tenantId": "c877b4b7-7e5e-4a40-8605-564b2104b558"
+	}
+}
